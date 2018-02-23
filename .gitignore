@@ -1,0 +1,14 @@
+*.bin
+*.hex
+*.elf
+*.map
+*.o
+*.b
+*.elay
+*.log
+*.ebTemp
+*_build_log.html
+
+Debug
+bin
+obj
